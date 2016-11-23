@@ -1,0 +1,7 @@
+#Wed Nov 02 14:30:19 MST 2016
+base.0=/Users/incyphae10/Dropbox (Personal)/ASU/Cloud Computing/Projects/Location-Aware-Mobile-Cloud/Android/AutoWifiDirect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3075574634fa8ac01145d4e7dc1256c0afe29894
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/incyphae10/Dropbox (Personal)/ASU/Cloud Computing/Projects/Location-Aware-Mobile-Cloud/Android/AutoWifiDirect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38bfb6f2c488898a24251a0dec53003e175e9129/classes.dex
+base.1=/Users/incyphae10/Dropbox (Personal)/ASU/Cloud Computing/Projects/Location-Aware-Mobile-Cloud/Android/AutoWifiDirect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38bfb6f2c488898a24251a0dec53003e175e9129
+file.0=/Users/incyphae10/Dropbox (Personal)/ASU/Cloud Computing/Projects/Location-Aware-Mobile-Cloud/Android/AutoWifiDirect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3075574634fa8ac01145d4e7dc1256c0afe29894/classes.dex

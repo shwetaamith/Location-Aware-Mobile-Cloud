@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/incyphae10/Dropbox (Personal)/ASU/Cloud Computing/Projects/Location-Aware-Mobile-Cloud/Android/AutoWifiDirect/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d1f6b459a6d5ec8d3d1271fbbc5731b14defacf">
+        <dex dex="/Users/incyphae10/Dropbox (Personal)/ASU/Cloud Computing/Projects/Location-Aware-Mobile-Cloud/Android/AutoWifiDirect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3075574634fa8ac01145d4e7dc1256c0afe29894/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/incyphae10/Dropbox (Personal)/ASU/Cloud Computing/Projects/Location-Aware-Mobile-Cloud/Android/AutoWifiDirect/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d24569783df9e3f89f54a5d235854ef2b81359a5">
+        <dex dex="/Users/incyphae10/Dropbox (Personal)/ASU/Cloud Computing/Projects/Location-Aware-Mobile-Cloud/Android/AutoWifiDirect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38bfb6f2c488898a24251a0dec53003e175e9129/classes.dex" />
+    </item>
+
+</items>

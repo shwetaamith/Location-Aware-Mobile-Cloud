@@ -1,0 +1,4 @@
+GTN-700,0.142
+Nexus-6P,0.21
+Galaxy-S7,0.25
+Iphone7,0.4
