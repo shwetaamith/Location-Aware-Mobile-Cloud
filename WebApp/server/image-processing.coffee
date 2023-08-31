@@ -14,7 +14,7 @@ _app.createThumbnails = (collection, fileRef, cb) ->
     return true
 
   fs.exists fileRef.path, (exists) -> bound ->
-    throw Meteor.log.error "File #{fileRef.path} not found in [createThumbnails] Method" if not exists
+    throw Meteor.log.error "the File #{fileRef.path} not found in [createThumbnails] Method" if not exists
 
     image = gm(fileRef.path)
 
